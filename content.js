@@ -5,7 +5,7 @@ window.addEventListener("load", function () {
 		}
 
 		if (activated) {
-			elem = document.querySelector("#vilos-player");
+			let elem = document.querySelector("#vilos-player");
 
 			if (elem != null && elem != undefined) {
 				elem.style.position = "fixed";
