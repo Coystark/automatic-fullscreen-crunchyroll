@@ -9,4 +9,8 @@ insert_final_newline = true
 charset = utf-8
 indent_style = tab
 indent_size = 2
+<<<<<<< HEAD
 trim_trailing_whitespace = true
+=======
+trim_trailing_whitespace = true
+>>>>>>> 0bef97acc4a3c65b139a132b937f39c935840c09
