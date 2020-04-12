@@ -21,8 +21,6 @@ window.addEventListener("load", function () {
 						}
 					});
 			}
-
-			chrome.extension.sendMessage({ reloadPage: true });
 		}
 	});
 });

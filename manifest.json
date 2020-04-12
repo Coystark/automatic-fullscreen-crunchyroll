@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Automatic Fullscreen on Crunchyroll",
-	"version": "0.1",
+	"version": "0.2",
 	"description": "Click on the switch buttom, press F11 and stay in your bed ;)",
 	"permissions": ["storage"],
 	"content_scripts": [
